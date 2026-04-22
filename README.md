@@ -1,4 +1,3 @@
-# medicine-pokemon
 # Pokémon or Medicine?
 
 A browser-based guessing game built with HTML, CSS, and vanilla JavaScript.
